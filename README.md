@@ -7,7 +7,7 @@ projects and independent study.
 
 ## 🛠️ Technologies
 
-Python . Go . Java . C++ . Git . MySQL . PyTorch . NumPy . Pandas 
+Python · Go · Java · C++ · Git · MySQL · PyTorch · NumPy · Pandas 
 
 ## 🎯 Interests
 
