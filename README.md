@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Niki Hooshmand 👋
 
-<!--
-**nikihooshmand/nikihooshmand** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science graduate from AUT
 
-Here are some ideas to get you started:
+I'm currently developing my programming and research skills through practical
+projects and independent study.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Technologies
+
+Python . Go . Java . C++ . Git . MySQL . PyTorch . NumPy . Pandas 
+
+## 🎯 Interests
+
+Software Engineering · Cloud Computing · Code Quality · Static Analysis
+
+## 📫 Contact
+
+- Email: Nikihooshmandnik.nh@gmail.com
