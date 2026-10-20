@@ -11,7 +11,7 @@ Python · Go · Java · C++ · Git · MySQL · PyTorch · NumPy · Pandas
 
 ## 🎯 Interests
 
-Software Engineering · Cloud Computing · Code Quality · Static Analysis
+Cloud Computing · IoT · Static Analysis · Software Engineering
 
 ## 📫 Contact
 
